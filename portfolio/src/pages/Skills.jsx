@@ -8,9 +8,11 @@ export default function Skills(){
             </div>
 
             <div className="text-center p-10">
+                <p align='center'>
                 <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-                    <img src="https://skillicons.dev/icons?i=git,java,react,vite,tensorflow,javascript,python,c,cs,cpp,bash,html,css,swift,mongodb," />
+                    <img src="https://skillicons.dev/icons?i=git,java,react,vite,tensorflow,javascript,python,c,cs,cpp,bash,html,css,swift,mongodb" />
                 </a>
+                </p>
             </div>
         </div>
     )
