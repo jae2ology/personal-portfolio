@@ -8,6 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: "/portfolio/", // github repo
+  base: "/personal-portfolio/", // github repo
   
 })
