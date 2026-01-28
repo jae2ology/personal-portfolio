@@ -9,10 +9,10 @@ export default function NavBar() {
 
             <div className="hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 gap-2">
-                    <li key="#skills">
+                    <li>
                         <a href="#skills">Skills</a>
                     </li>
-                    <li key="#experience">
+                    <li>
                         <a href="#experience">Experience</a>
                     </li>
                 </ul>
